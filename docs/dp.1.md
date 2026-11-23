@@ -1,0 +1,135 @@
+## Assumptions
+
+- **Buyer:** a two-income W-2 household with kids, renting, in the US, in USD.
+- **Goal:** move from carrying personal debt to being debt-free. Mortgage is covered as a decision guide, not a main track.
+- **Product:** a subscription SaaS web app with lessons, calculators, and a tracker.
+
+## Suggested price
+
+- **$12/month or $99/year**, with a 14-day free trial and the annual plan preselected. Annual saves about 30% against monthly.
+- **Why this works:** $14,800 of card debt at about 22% APR costs roughly $275 a month in interest, so $99 a year is small next to what the app is meant to save.
+- **Free entry point:** offer a debt payoff calculator for free and paywall the plan, lessons, and tracking.
+- **Test prices:** try $79, $99, and $129 annual in early signups.
+- **Include two logins per household** on the base plan. Couples will expect it.
+- I did not check competitor pricing. I can search for it if you want a comparison.
+
+## Worked-example household: the Carters
+
+- Two W-2 earners, two kids (ages 3 and 8), renters
+- Take-home pay: $7,200/month
+- Essentials, including $1,220 in debt minimums: $6,740, leaving $460 with no plan
+- Debts, excluding mortgage (total $73,700):
+  - Credit cards: $14,800 across three cards at 24.9% ($5,200), 21.5% ($6,100), and 19.99% ($3,500)
+  - Auto loan: $18,600 at 6.9%
+  - Federal student loans: $38,000 at 5.8%
+  - Medical bill: $2,300 (confirm its status)
+
+## Module map
+
+### Module 1: Know Your Numbers
+- **Outcome:** List every debt with balance, APR, minimum, and due date, and calculate cash left after essentials.
+- **Concepts:** take-home vs. gross pay; fixed, variable, and irregular expenses; how APR accrues monthly; minimum payment vs. payoff
+- **Worked example:** $7,200 − $6,740 = $460 left
+- **Deliverable:** completed debt inventory and monthly cash-flow sheet
+- **App feature:** onboarding debt inventory and cash-flow setup
+- **Quiz**
+  1. Why plan from take-home pay? *Only take-home money can be spent.*
+  2. What is left after the Carters' essentials? *$460.*
+  3. Which four fields does each debt need? *Balance, APR, minimum payment, due date.*
+
+### Module 2: A Spending Plan Two Adults Will Keep
+- **Outcome:** Assign every dollar in a monthly plan, including sinking funds, and run a monthly money review with a partner.
+- **Concepts:** zero-based budgeting; sinking funds for irregular costs (car repairs, school fees, birthdays); personal allowances; the monthly money date
+- **Worked example:** The Carters cut $150 from groceries (meal planning) and $90 from subscriptions and takeout. Free cash rises to $700. They allocate $150 to sinking funds, $150 to personal allowances, and $400 extra to debt.
+- **Deliverable:** one-month plan with category limits and sinking-fund targets
+- **App feature:** budget builder with a shared household view
+- **Quiz**
+  1. What is a sinking fund? *A monthly savings amount set aside for an expense that will come due later.*
+  2. How is $700 of free cash allocated in the example? *$150 sinking funds, $150 allowances, $400 extra debt.*
+  3. Why hold a monthly money review? *Plans drift, and a short review catches problems before they become new debt.*
+
+### Module 3: Cut the Interest Bleed
+- **Outcome:** Calculate monthly interest on each debt and take at least three steps to lower its cost.
+- **Concepts:** APR ÷ 12 × balance as an estimate (card issuers usually accrue interest daily); the cost of minimum-only payments; asking for a lower rate; balance transfers and their fees and promo end dates; hardship programs; stopping new charges
+- **Worked example:** Card interest is about $275/month. Getting the 24.9% card cut to 19.9% saves about $22/month on the $5,200 balance.
+- **Deliverable:** a rate-reduction call script and a balance-transfer checklist
+- **App feature:** per-debt interest calculator and a script library
+- **Quiz**
+  1. Roughly how much interest does $14,800 at 22% APR add in a month? *About $271 ($14,800 × 22% ÷ 12).*
+  2. What must you check before a balance transfer? *The transfer fee, the promo end date, and the rate after the promo.*
+  3. Why doesn't a rate cut alone fix the problem? *New charges can refill the balance, so the spending plan has to change too.*
+
+### Module 4: Choose a Payoff Strategy
+- **Outcome:** Choose avalanche, snowball, or a hybrid, and set a payoff order.
+- **Concepts:**
+  - Avalanche: highest APR first
+  - Snowball: smallest balance first
+  - Hybrid: clear one small, stressful bill first, then use avalanche
+  - Employer 401(k) match: contribute enough to get the full match, a common default worth checking against your own math
+  - Starter emergency fund: a choice, not a rule
+- **Worked example:** The Carters have $1,620/month for debt ($1,220 minimums plus $400 extra). Avalanche order: 24.9% card → 21.5% card → 19.99% card → auto → student loans. Snowball order starts with the medical bill ($2,300), then the $3,500 card.
+- **Deliverable:** a payoff order with dates, generated by the calculator
+- **App feature:** avalanche/snowball toggle and payoff-date calculator
+- **Quiz**
+  1. Which card does avalanche pay first for the Carters? *The 24.9% card.*
+  2. What is the main trade-off between the two methods? *Avalanche saves more interest; snowball gives faster early wins, which can help people stay consistent.*
+  3. Why keep contributing to a 401(k) match while paying debt? *The match is an immediate return on the contribution; confirm the math for your situation.*
+
+### Module 5: Handle the Special Debts
+- **Outcome:** Evaluate student loans, auto loans, and medical bills, and pick one action for each.
+- **Concepts:** federal vs. private student loans (federal plans include protections private loans may not offer); refinancing trade-offs; medical bill review (itemized bill, insurer's explanation of benefits, financial assistance); auto refinancing once credit improves; mortgage prepayment vs. saving (decision guide only)
+- **Worked example:**
+  - Student loans: check the current repayment plan with the servicer before considering refinancing.
+  - Medical bill: request an itemized bill and check the insurer's explanation of benefits before paying.
+  - Auto loan: a lower payment from a longer term can still cost more in total interest.
+- **Deliverable:** a one-page decision sheet for each special debt
+- **App feature:** special-debt decision guide with links to official sources
+- **Quiz**
+  1. What should you request before paying a medical bill? *An itemized bill and the insurer's explanation of benefits.*
+  2. What can you lose by refinancing federal student loans with a private lender? *Federal protections such as income-driven repayment plans and public service loan forgiveness eligibility.*
+  3. Why can a lower auto payment still cost more? *A longer term increases total interest.*
+
+### Module 6: Protect the Plan
+- **Outcome:** Set a starter emergency fund, review insurance and withholding, and adopt rules that prevent new debt.
+- **Concepts:** starter emergency fund; insurance basics (employer life and disability coverage, term life when dependents rely on income); dependent care accounts and childcare tax benefits (verify current amounts); W-4 withholding (a large refund means you overpaid during the year); no-new-debt rules (buy now, pay later, 0% promo offers, cash or debit for variable spending)
+- **Worked example:** The Carters fund a $1,000 starter fund with $150/month from sinking funds over about seven months. Then that $150 moves to debt.
+- **Deliverable:** protection checklist and an emergency fund goal in the app
+- **App feature:** emergency fund tracker, insurance checklist, and no-new-debt rules
+- **Quiz**
+  1. Why keep a starter fund while paying down debt? *Without one, the next surprise repair goes back on a card and undoes progress.*
+  2. What does a large tax refund usually mean? *You overpaid through withholding and lent the government money interest-free during the year. Review your W-4 with a tax professional.*
+  3. Name one rule that keeps the balance from growing again. *Example: use cash or debit for variable spending.*
+
+### Module 7: Debt-Free and Staying There
+- **Outcome:** Redirect freed-up payments, set the next three goals, and finish a one-page family plan.
+- **Concepts:** redirecting payments after each payoff; full emergency fund (3 to 6 months of essential expenses); retirement contributions; credit score rebuilding; education savings options (verify plan rules); an annual money review
+- **Worked example:** When the 24.9% card is paid off, its full monthly payment moves to the next debt in the chosen order, not to spending.
+- **Capstone:** a one-page Family Debt-Free Plan with payoff dates, the monthly budget, the emergency fund target, retirement contribution levels, and the next review date.
+- **Deliverable:** the capstone plan and an annual review reminder
+- **App feature:** debt-free date on the dashboard, payment redirect rules, and annual review
+- **Quiz**
+  1. Where does a paid-off card's payment go? *To the next debt in the chosen order or to the next goal, not to spending.*
+  2. What usually comes right after debt-free? *A full emergency fund.*
+  3. Why keep an annual review? *Income, childcare costs, and rules change, so the plan needs updating.*
+
+## Compliance and product risks (US)
+
+- **Education, not advice.** Calculators show outcomes, and suggested actions should read as options. Avoid individualized recommendations such as "refinance your mortgage." Put a disclaimer on every calculator.
+- **Affiliate income.** If you earn commissions on balance-transfer cards or refinance offers, disclose them clearly.
+- **Debt relief.** If you ever offer settlement or negotiation services, FTC rules apply, including restrictions on advance fees. Get counsel to review before building anything in this category.
+- **Bank connections.** Use a licensed data aggregator. Never store bank passwords. Publish a privacy policy and a security program. Ask counsel whether the FTC Safeguards Rule and state privacy laws, such as California's, apply to you.
+- **Student loans.** Do not imply government affiliation. The FTC has warned about student loan relief scams, so do not upsell "forgiveness" services.
+- **AI assistant.** If the app includes an AI assistant, label it, limit it to education, and route individual questions to a licensed professional.
+
+## Credibility for your marketing
+
+Your background as a business consultant and AI expert supports the tools and systems. It does not make you a financial advisor. Avoid titles like "financial coach" or "financial advisor" unless you are licensed or certified. For more authority, have a CFP®, CPA, or attorney review the curriculum. Say "reviewed by" only if they actually did.
+
+## Verify before publishing
+
+- Current federal student loan repayment plans and terms, which have changed recently
+- Current-year childcare tax credit and dependent care account limits
+- Current 401(k) contribution limits
+- Competitor pricing, which I have not checked
+
+I can turn Module 1 into in-app copy and a calculator spec next.
